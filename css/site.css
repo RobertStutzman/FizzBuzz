@@ -24,6 +24,19 @@ main>.container {
     color: var(--secondary-color);
 }
 
+.Fizz {
+    color:darkgreen;
+}
+
+.Buzz {
+    color: darkblue;
+}
+
+.FizzBuzz{
+    color: red;
+    font-weight: bold;
+}
+
 .sticky-footer {
     position: sticky;
     left: 0;
